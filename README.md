@@ -67,7 +67,7 @@ On clicking Upload file here a file manager is open, now you can upload CSV from
 
 
 ## Example Usage
-![Graph Example](/docs\cardekho_3.png)
+![Graph Example](/docs/cardekho_3.png)
 #### 1️⃣ Enter Your Query  
 - In the **"Ask a Question"** section, type your query.  
 - Example:
@@ -88,7 +88,7 @@ What is the maximum and minimum price of the house?
 ## Output Page Overview  
 
 Once the **"Generate Response"** button is clicked, the application provides:  
-![Graph Example](/docs\cardekho_4.png)
+![Graph Example](/docs/cardekho_4.png)
 #### 1️⃣ AI-Generated Text Response  
 - The AI extracts and displays relevant insights from the dataset.  
 - Based on the provided context, the **maximum price of a house is 
@@ -105,12 +105,12 @@ This structured output provides both **numerical insights and graphical represen
 
 ## Combined Preview
 Both Input and Output pages simultaneously.
-![Graph Example](/docs\cardekho_5.png)
+![Graph Example](/docs/cardekho_5.png)
 
 
 ## Conclusion  
 
-This project implements an Ollama 3.0 with Pydantic AI integration to enable effortless interaction with tabular data using features like intelligent query processing and an interactive UI that uses dynamic graph generation which simplifies data probing for users with no advanced technical skills. This project builds a smart and interactive Gradio-based CSV Question Answering and Visualization Application.
+This project implements an Ollama 3.0 with Pydantic AI integration to enable effortless interaction with tabular data using features like intelligent query processing and an interactive UI that uses dynamic graph generation which simplifies data probing for users with no advanced technical skills. This project builds a smart and interactive Gradio-based CSV question-answering and Visualization Application.
 
 Future work might support more visualization types, optimize LLM response time, and improve the efficiency of parsing the CSV for complicated datasets. This project is open for contributions and comments for further improvements. 
 
