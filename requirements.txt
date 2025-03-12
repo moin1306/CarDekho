@@ -1,0 +1,6 @@
+gradio
+pandas
+matplotlib
+ollama
+pydantic-ai
+pytest
